@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prize-website-v2/static/css/main.0bfcede5.css",
+    "main.js": "/prize-website-v2/static/js/main.55d45c33.js",
+    "static/js/453.dfe0ef0b.chunk.js": "/prize-website-v2/static/js/453.dfe0ef0b.chunk.js",
+    "index.html": "/prize-website-v2/index.html",
+    "main.0bfcede5.css.map": "/prize-website-v2/static/css/main.0bfcede5.css.map",
+    "main.55d45c33.js.map": "/prize-website-v2/static/js/main.55d45c33.js.map",
+    "453.dfe0ef0b.chunk.js.map": "/prize-website-v2/static/js/453.dfe0ef0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bfcede5.css",
+    "static/js/main.55d45c33.js"
+  ]
+}
